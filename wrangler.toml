@@ -1,0 +1,8 @@
+name = "ozino-wine"
+type = "custom build"
+account_id = "3e4927ab755dbdae04ab3f26ac5088b7"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2023-12-23"
+
